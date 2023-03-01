@@ -1,7 +1,5 @@
 - 👋 Hi, I’m (@g4ze) Nilay Gupta
-- 👀 I’m interested in Developing stuff.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on idk
+- Making sense out of dumb computers
 - 📫 How to reach me nilaygupta3003@gmail.com
 
 <!---
