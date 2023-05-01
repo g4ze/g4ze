@@ -7,9 +7,11 @@
 <a href="https://www.linkedin.com/in/nilay-gupta-3003/">
   <img align="left" alt="Nilay Gupta" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br />
 - /ᐠ ̥  ̮  ̥ ᐟ\ฅ Hi, I’m (@g4ze) Nilay Gupta
+<br>
 - Making sense out of dumb computers
+<br>
 - Check pofile to reach out; email nilaygupta3003@gmail.com
 <!---
 argrrghghghhhh kohooootttttt
