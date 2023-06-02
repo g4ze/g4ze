@@ -12,7 +12,7 @@
 <br>
 - Making sense out of dumb computers
 <br>
-- Check pofile to reach out; email nilaygupta3003@gmail.com
+- Check profile to reach out; email nilaygupta3003@gmail.com
 <!---
 argrrghghghhhh kohooootttttt
 --->
