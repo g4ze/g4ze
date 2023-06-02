@@ -1,7 +1,7 @@
 <a href="https://www.instagram.com/n_nilay0.o/">
   <img align="left" alt="Nilay's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/nilaygupta1">
+<a href="https://twitter.com/guptanilay1">
   <img align="left" alt="Nilay Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nilay-gupta-3003/">
