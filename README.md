@@ -7,7 +7,8 @@
 <a href="https://www.linkedin.com/in/nilay-gupta-3003/">
   <img align="left" alt="Nilay Gupta" width="22px" src="https://imgs.search.brave.com/KSg67-RXjEB7oNcvs4mjTRkAshQrCirzAaPFdvk4wEw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9MaW5rZWRJ/bi9MaW5rZWRJbi1J/Y29uLUxvZ28ud2lu/ZS5zdmc.svg" />
 </a>
-<br />
+<br>
+
 - /ᐠ ̥  ̮  ̥ ᐟ\ฅ Hi, I’m (@g4ze) Nilay Gupta
 <br>
 - Making sense out of dumb computers
