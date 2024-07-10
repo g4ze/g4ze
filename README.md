@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/n_nilay0.o/">
+<a href="https://www.instagram.com/gnilay_/">
   <img align="left" alt="Nilay's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/guptanilay1">
