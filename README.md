@@ -8,6 +8,11 @@
   <img align="left" alt="Nilay Gupta" width="22px" src="https://imgs.search.brave.com/70FzGCRqugSigDxF9ZwLkxhshSoJWi5xpiFZgPolY4k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzgxL0xpbmtlZElu/X2ljb24uc3Zn" />
 </a>
 <br>
+<br>
+
+![cat-typing-fast-tx7kpqad2hq3c6yk](https://github.com/user-attachments/assets/809c02c8-07cd-4b92-8eb8-7c38bfb585f9)
+
+<br>
 - /ᐠ ̥  ̮  ̥ ᐟ\ฅ Hi, I’m (@g4ze) Nilay Gupta
 <br>
 - Making sense out of dumb computers
