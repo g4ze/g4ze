@@ -15,7 +15,7 @@
 <br>
 - /ᐠ ̥  ̮  ̥ ᐟ\ฅ Hi, I’m (@g4ze) Nilay Gupta
 <br>
-- Checkout my latest OSS project @ [g4ze.github.io/byoc/](https://g4ze.github.io/byoc/)
+- Checkout my latest OSS project @ ![g4ze.github.io/byoc/](https://g4ze.github.io/byoc/)
 
 - Making sense out of dumb computers
 <br>
