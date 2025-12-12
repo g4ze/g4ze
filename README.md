@@ -13,7 +13,7 @@
 ![cat-typing-fast-tx7kpqad2hq3c6yk](https://github.com/user-attachments/assets/809c02c8-07cd-4b92-8eb8-7c38bfb585f9)
 
 <br>
-- /ᐠ ̥  ̮  ̥ ᐟ\ฅ Hi, I’m (@g4ze) Nilay Gupta
+Hi, I’m (@g4ze) Nilay Gupta
 <br>
 - Checkout my latest OSS project @ https://g4ze.github.io/byoc/
 
