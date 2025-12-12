@@ -1,3 +1,11 @@
+
+- Hi, I’m (@g4ze) Nilay Gupta 
+- Checkout my latest OSS project @ https://g4ze.github.io/byoc/
+- Making sense out of dumb computers
+- Check profile to reach out; email nilayguptaforwork@gmail.com
+
+
+
 <a href="https://www.instagram.com/gnilay_/">
   <img align="left" alt="Nilay's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -11,9 +19,4 @@
 <br>
 
 ![cat-typing-fast-tx7kpqad2hq3c6yk](https://github.com/user-attachments/assets/809c02c8-07cd-4b92-8eb8-7c38bfb585f9)
-
-- Hi, I’m (@g4ze) Nilay Gupta 
-- Checkout my latest OSS project @ https://g4ze.github.io/byoc/
-- Making sense out of dumb computers
-- Check profile to reach out; email nilayguptaforwork@gmail.com
 
