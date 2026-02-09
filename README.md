@@ -1,5 +1,6 @@
 currently working @salescodeai
-- Hi, I’m (@g4ze) Nilay Gupta 
+- Hi, I’m (@g4ze) Nilay Gupta
+- Google Summer of Code @honeynet/intelowl
 - Checkout my latest OSS project @ https://g4ze.github.io/byoc/
 - Making sense out of dumb computers
 - Check profile to reach out; email nilayguptaforwork@gmail.com
