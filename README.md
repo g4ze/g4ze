@@ -7,7 +7,7 @@ currently working @salescodeai
 
 
 <a href="https://www.instagram.com/abey_nilay/">
-  <img align="left" alt="Nilay's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Nilay's Instagram" width="22px" src="https://www.vecteezy.com/png/18930415-instagram-logo-png-instagram-icon-transparent" />
 </a>
 <a href="https://twitter.com/guptanilay1">
   <img align="left" alt="Nilay Gupta | Twitter" width="22px" src="https://imgs.search.brave.com/dRbpdO_Wcdu-XtM2uZyc1VWgL0JRQ0FgrdBWoQAkzJA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/cG5nbG9nby5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY5MTgzMjU4/MXR3aXR0ZXIteC1p/Y29uLXBuZy5wbmc" />
