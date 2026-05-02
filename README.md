@@ -6,7 +6,7 @@ currently working @salescodeai
 
 
 
-<a href="https://www.instagram.com/gnilay_/">
+<a href="https://www.instagram.com/abey_nilay/">
   <img align="left" alt="Nilay's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/guptanilay1">
